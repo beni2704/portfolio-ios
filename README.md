@@ -44,8 +44,12 @@ Tech used :
 
 Github Link : https://github.com/beni2704/AdventureName
 
+Tesflight : https://testflight.apple.com/join/d1EMVav6
+
 ## MRTuTut
 In this project, our primary goal revolved around addressing issues within the MRT ecosystem, benefiting both passengers and staff members. Our team opted to concentrate on passenger concerns, ultimately selecting the real-time feature update approach. This feature aimed to provide passengers with live updates on station conditions and nearby events. To realize this, we seamlessly integrated Firebase for database management, employed geolocation services, and incorporated user notifications throughout the development phase.
+
+In this project, I contributed mostly to database management, where we used Firebase as our database. I managed CRUD (Create, Read, Update, and Delete) operations to handle data from each station. I was assigned to create an admin page and a user page to ensure that the data is synchronized and can be displayed in real-time.
 
 <p align="center">
   <img width="250" alt="Screenshot 2023-09-03 at 21 14 19" src="https://github.com/beni2704/portfolio-ios/assets/78644301/c39d21b2-b79b-46bd-80ab-2cd54f4a4cf7">
@@ -59,6 +63,7 @@ Tech used :
 * SwiftUI
 * CoreLocation
 * Firebase
+* Push Notification
 
 Github Link : https://github.com/jonathanheriyanto/MRTut
 
@@ -86,6 +91,8 @@ Testflight : https://bit.ly/MISSINGGame
 ## berUang
 An expense tracker and savings tracker application that help parents to educate their children by tracking their child's daily expense, tracking their child's daily savings while help them differentiate between needs and wants. 
 
+In this project, my primary contribution centered on designing views and implementing core data management for a user-friendly financial interface. I focused on creating detailed expenditure breakdowns, utilizing core data functionalities to accurately track and organize users' spending and savings data. The implemented data architecture not only enables the display of expenses but also allows users to visualize their savings trends over time. 
+
 <p align="center">
   <img width="250" src="https://github.com/beni2704/portfolio-ios/assets/78644301/8c6375ff-8434-4fa8-ae7c-15a23fd2bcef">
   <img width="250" src="https://github.com/beni2704/portfolio-ios/assets/78644301/b504eab7-e7b1-4dfd-9c42-354762287d70">
@@ -101,3 +108,4 @@ Tech used :
 
 Github Link : https://github.com/Leonard-Theodorus/MC1GD
 
+Testflight : https://testflight.apple.com/join/QFuXG8rn
